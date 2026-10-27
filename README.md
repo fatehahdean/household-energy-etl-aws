@@ -41,23 +41,23 @@ Cleaned CSV written to `processed/` (126 MB).
 ### 5. Athena table preview
 Sample rows read directly from the processed CSV.
 
-![Athena table preview] <img width="1418" height="707" alt="6-Athena-table" src="https://github.com/user-attachments/assets/e4146fc9-e39b-45be-9063-5f7763dece71" />
+<img width="1418" height="707" alt="6-Athena-table" src="https://github.com/user-attachments/assets/e4146fc9-e39b-45be-9063-5f7763dece71" />
 
 
 ### 6. Peak daily demand
 Top 10 days by peak active power. Each day has 1,440 readings, one per minute.
 
-![Peak daily demand](screenshots/7-peak-daily-demand.png)
+<img width="1058" height="618" alt="7-peak-daily-demand" src="https://github.com/user-attachments/assets/8cb8ad89-9b1c-4ff6-b6ca-6fbc119f4542" />
 
 ### 7. Average demand by hour (00:00 to 09:00)
 Lowest demand overnight, rising after sunrise.
 
-![Hourly demand part 1](screenshots/8-Hourly-demand-query1.png)
+<img width="1061" height="611" alt="8-Hourly-demand-query1" src="https://github.com/user-attachments/assets/a0fb3eb6-b094-4a27-80c2-90b5fa33b369" />
 
 ### 8. Average demand by hour (10:00 to 23:00)
 Demand peaks in the evening, highest at 20:00.
 
-![Hourly demand part 2](screenshots/8-Hourly-demand-query2.png)
+<img width="1063" height="612" alt="8-Hourly-demand-query2" src="https://github.com/user-attachments/assets/9825aa88-707b-4fe6-9fd3-ab90b8a46b23" />
 
 ## Engineering Notes
 
