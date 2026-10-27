@@ -14,7 +14,7 @@ UCI Individual Household Electric Power Consumption: 2,075,259 minute-level read
 
 - Cleaned 2,049,280 rows and skipped 25,979 rows with missing values (`?`)
 - Peak average demand at 20:00 (1.899 kW)
-- Lowest average demand between 00:00 and 02:00 (around 0.44 to 0.66 kW)
+- Lowest average demand between 00:00 and 05:00 (around 0.44 to 0.66 kW, lowest at 04:00)
 
 ## Engineering Notes
 
